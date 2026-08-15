@@ -23,3 +23,7 @@ export function divide(a, b) {
 export function exponent(a, b) {
     return Math.pow(a, b);
 }
+
+export function divideby2andadd(a, b) {
+    return a / 2 + b / 2;
+}
