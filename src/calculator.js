@@ -31,3 +31,7 @@ export function divideby2andadd(a, b) {
 export function divideby3andadd(a, b) {
     return a / 3 + b / 3;
 }
+
+export function divideby4andadd(a, b) {
+    return a / 4 + b / 4;
+}
