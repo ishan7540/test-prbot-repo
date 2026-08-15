@@ -27,3 +27,7 @@ export function exponent(a, b) {
 export function divideby2andadd(a, b) {
     return a / 2 + b / 2;
 }
+
+export function divideby3andadd(a, b) {
+    return a / 3 + b / 3;
+}
