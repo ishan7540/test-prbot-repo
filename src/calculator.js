@@ -19,3 +19,7 @@ export function divide(a, b) {
     }
     return a / b
 }
+
+export function exponent(a, b) {
+    return Math.pow(a, b);
+}
